@@ -1,0 +1,305 @@
+﻿node.exe : npm verbose cli C:\Program 
+Files\nodejs\node.exe C:\Users\Admin\AppData\Roam
+ing\npm\node_modules\npm\bin\npm-cli.js
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" 
+"C:\Users\Admin\AppData\Roaming\ ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (npm 
+    verbose cli...\bin\npm-cli.js:String) [], R  
+  emoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+npm info using npm@11.10.1
+npm info using node@v24.13.1
+npm verbose title npm install
+npm verbose argv "install" "--loglevel" "verbose"
+npm verbose logfile logs-max:10 dir:C:\Users\Admi
+n\AppData\Local\npm-cache\_logs\2026-03-29T11_58_
+25_138Z-
+npm verbose logfile C:\Users\Admin\AppData\Local\
+npm-cache\_logs\2026-03-29T11_58_25_138Z-debug-0.
+log
+npm http fetch GET 200 
+https://registry.npmjs.org/bcryptjs 232ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/cloudinary 64ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/cookie-parser 43ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/cors 44ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/dotenv 50ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/express 48ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/jsonwebtoken 59ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/mongoose 67ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/multer 58ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/morgan 183ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/helmet 60ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/express-rate-limit 
+45ms (cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/nodemon 45ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/cloudinary-core 63ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/send 45ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/object-assign 168ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/etag 171ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/qs 178ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/cookie-signature 
+186ms (cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/vary 75ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/depd 189ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/vary 193ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/lodash 221ms (cache 
+updated)
+npm http fetch GET 200 
+https://registry.npmjs.org/cookie 233ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/core-js 241ms (cache 
+updated)
+npm http fetch GET 200 
+https://registry.npmjs.org/cookie 69ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/debug 88ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/accepts 77ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/fresh 92ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/type-is 77ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/methods 84ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/parseurl 80ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/statuses 77ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/encodeurl 69ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/proxy-addr 82ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/on-finished 61ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/utils-merge 63ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/safe-buffer 67ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/escape-html 81ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/content-type 74ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/http-errors 91ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/finalhandler 65ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/body-parser 115ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/range-parser 80ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/array-flatten 55ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/serve-static 66ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/merge-descriptors 
+58ms (cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/setprototypeof 65ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/path-to-regexp 71ms 
+(cache updated)
+npm http fetch GET 200 
+https://registry.npmjs.org/content-disposition 
+69ms (cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/jws 59ms (cache miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/ms 72ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/lodash.once 56ms 
+(cache miss)
+npm http cache https://registry.npmjs.org/ms 
+14ms (cache hit)
+npm http fetch GET 200 
+https://registry.npmjs.org/semver 79ms (cache 
+updated)
+npm http fetch GET 200 
+https://registry.npmjs.org/lodash.isnumber 69ms 
+(cache miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/lodash.isstring 66ms 
+(cache miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/lodash.isboolean 69ms 
+(cache miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/lodash.isplainobject 
+60ms (cache miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/mpath 54ms (cache 
+miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/kareem 57ms (cache 
+miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/bson 91ms (cache miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/mquery 64ms (cache 
+miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/sift 93ms (cache miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/on-headers 68ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/xtend 55ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/busboy 47ms (cache 
+revalidated)
+npm http cache https://registry.npmjs.org/semver 
+7ms (cache hit)
+npm http fetch GET 200 
+https://registry.npmjs.org/append-field 47ms 
+(cache miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/mkdirp 62ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/concat-stream 61ms 
+(cache miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/touch 65ms (cache 
+miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/minimatch 56ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/chokidar 67ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/undefsafe 57ms (cache 
+miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/pstree.remy 59ms 
+(cache miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/mongodb 187ms (cache 
+miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/supports-color 87ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/ignore-by-default 
+76ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org
+/simple-update-notifier 71ms (cache miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/lodash.includes 326ms 
+(cache miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/lodash.isinteger 
+342ms (cache miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/basic-auth 306ms 
+(cache miss)
+npm http fetch GET 200 
+https://registry.npmjs.org/q 868ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/raw-body 106ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/mime-types 112ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/bytes 116ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/negotiator 120ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/inherits 133ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/iconv-lite 138ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/unpipe 140ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/unpipe 143ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/toidentifier 139ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/ee-first 141ms (cache 
+revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/destroy 146ms (cache 
+revalidated)
+npm http cache 
+https://registry.npmjs.org/destroy 26ms (cache 
+hit)

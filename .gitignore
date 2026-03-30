@@ -1,0 +1,10 @@
+# Root level ignore
+node_modules/
+.env
+.env.local
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.vscode/
+.idea/
