@@ -41,7 +41,7 @@ app.use('/api', limiter);
 // ── CORS ───────────────────────────────────
 const allowedOrigins = [
   process.env.CLIENT_URL || 'http://localhost:3000',
-  'http://localhost:3001',
+  'http://localhost:3001', || https://dks-cake-world.vercel.app/
 ];
 
 app.use(
